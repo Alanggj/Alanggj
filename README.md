@@ -31,7 +31,7 @@ Para ver proyectos realizados: **mi portafolio** 👆
 
 ---
 
-## Habilidades (todo junto)
+## Habilidades
 
 ### Lenguajes
 ![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white)
