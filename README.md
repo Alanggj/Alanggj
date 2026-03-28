@@ -68,6 +68,7 @@ Para ver proyectos realizados: **mi portafolio** 👆
 ![RSA](https://img.shields.io/badge/RSA-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![AES](https://img.shields.io/badge/AES-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![SHA--256](https://img.shields.io/badge/SHA--256-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![SHA--512](https://img.shields.io/badge/SHA--512-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![HMAC](https://img.shields.io/badge/HMAC-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
