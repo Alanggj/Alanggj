@@ -3,9 +3,9 @@
   <img src="assets/banner.png" alt="Banner - Alan Gallardo" width="100%" />
 </p>
 
-# Alan Gallardo Jiménez
+# Alan Gael Gallardo Jiménez
 
-**Estudiante de Ingeniería en Sistemas** en la **UAA**.
+**Estudiante de Ingeniería en Sistemas** en la **Universidad Autónoma de Aguascalientes**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alan.al351914.workers.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-gallardo-jim%C3%A9nez-8a30a7313)
