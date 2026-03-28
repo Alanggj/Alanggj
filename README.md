@@ -6,16 +6,16 @@
 <h1 align="center">Alan Gallardo Jiménez</h1>
 <p align="center"><b>Estudiante de Ingeniería en Sistemas</b> en la <b>UAA</b>.</p>
 
-<!-- Contact / Links -->
+<!-- Contact / Links (mismo color que el resto) -->
 <p align="center">
   <a href="https://portfolio-alan.al351914.workers.dev">
-    <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Visitar-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Visitar-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/alan-gallardo-jim%C3%A9nez-8a30a7313">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Conectar-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Conectar-111827?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:alangalli100@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-alangalli100%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-alangalli100%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -41,10 +41,10 @@ Para ver proyectos realizados: **mi portafolio** 👆
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Web / Frameworks
-![Front-end](https://img.shields.io/badge/Front--end-0ea5e9?style=for-the-badge&logo=html5&logoColor=white)
-![Back-end](https://img.shields.io/badge/Back--end-0ea5e9?style=for-the-badge&logo=serverfault&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0ea5e9?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0ea5e9?style=for-the-badge&logo=django&logoColor=white)
+![Front-end](https://img.shields.io/badge/Front--end-111827?style=for-the-badge&logo=html5&logoColor=white)
+![Back-end](https://img.shields.io/badge/Back--end-111827?style=for-the-badge&logo=serverfault&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=white)
 
 ### Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -65,8 +65,6 @@ Para ver proyectos realizados: **mi portafolio** 👆
 
 ### Seguridad (herramientas y criptografía)
 ![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=white)
-
-<!-- Criptografía: separado en badges para que se vea claro -->
 ![RSA](https://img.shields.io/badge/RSA-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![AES](https://img.shields.io/badge/AES-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![SHA--256](https://img.shields.io/badge/SHA--256-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
@@ -92,8 +90,6 @@ Para ver proyectos realizados: **mi portafolio** 👆
 - **Business English** — Santander Academy
 
 ---
-
-## Estadísticas
 
 ## Estadísticas
 <p align="center">
