@@ -21,7 +21,7 @@
 ---
 
 ## Sobre mí
-Me gusta crear soluciones prácticas y seguir mejorando en **programación**, **bases de datos**, **redes**, **cloud** y **ciberseguridad**.  
+Me gusta crear soluciones prácticas y seguir mejorando en **programación**, **bases de datos**, **cloud** y **ciberseguridad**.  
 Actualmente me enfoco en fortalecer bases sólidas y aplicar lo aprendido en proyectos reales.
 
 📌 Como *plus* para mi carrera, estoy aprendiendo **Análisis de Datos** e **Inteligencia Artificial** para complementar mi perfil en Ingeniería en Sistemas y tomar mejores decisiones basadas en datos (por ejemplo con **Machine Learning**).
@@ -64,12 +64,15 @@ Para ver proyectos realizados: **mi portafolio** 👆
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-111827?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-111827?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Redes / Seguridad
-![Redes](https://img.shields.io/badge/Redes-111827?style=for-the-badge&logo=cisco&logoColor=white)
-![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-111827?style=for-the-badge&logo=hackthebox&logoColor=white)
+### Seguridad (herramientas y criptografía)
+![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=white)
+![RSA](https://img.shields.io/badge/RSA%20(encriptaci%C3%B3n)-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![AES](https://img.shields.io/badge/AES%20(encriptaci%C3%B3n)-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ### Datos e IA (en aprendizaje)
-![Análisis de Datos](https://img.shields.io/badge/An%C3%A1lisis%20de%20Datos-111827?style=for-the-badge&logo=databricks&logoColor=white)
+![Analista de Datos](https://img.shields.io/badge/Analista%20de%20Datos-111827?style=for-the-badge&logo=databricks&logoColor=white)
+![Ingeniero de Datos](https://img.shields.io/badge/Ingeniero%20de%20Datos-111827?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
