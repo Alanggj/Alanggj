@@ -3,10 +3,10 @@
   <img src="assets/banner.png" alt="Banner - Alan Gallardo" width="100%" />
 </p>
 
-<h1 align="center">Alan Gallardo Jiménez</h1>
-<p align="center"><b>Estudiante de Ingeniería en Sistemas</b> en la <b>UAA</b>.</p>
+<h1 align="center">Alan Gael Gallardo Jiménez</h1>
+<p align="center"><b>Estudiante de Ingeniería en Sistemas</b> en la <b>Universidad Autónoma de Aguascalientes</b>.</p>
 
-<!-- Contact / Links (mismo color que el resto) -->
+<!-- Enlaces -->
 <p align="center">
   <a href="https://portfolio-alan.al351914.workers.dev">
     <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Visitar-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -22,12 +22,10 @@
 ---
 
 ## Sobre mí
-Me gusta crear soluciones prácticas y seguir mejorando en **programación**, **bases de datos**, **cloud** y **ciberseguridad**.  
+Me gusta crear soluciones prácticas y seguir mejorando en **programación**, **bases de datos**, **cloud**, **redes** y **ciberseguridad**.  
 Actualmente me enfoco en fortalecer bases sólidas y aplicar lo aprendido en proyectos reales.
 
-📌 Como *plus* para mi carrera, estoy aprendiendo **Análisis de Datos** e **Inteligencia Artificial** para complementar mi perfil en Ingeniería en Sistemas y tomar mejores decisiones basadas en datos (por ejemplo con **Machine Learning**).
-
-Para ver proyectos realizados: **mi portafolio** 👆
+📌 Como *plus* para mi carrera, estoy aprendiendo **Análisis de Datos** e **Inteligencia Artificial** para complementar mi perfil en Ingeniería en Sistemas y tomar mejores decisiones basadas en datos.
 
 ---
 
@@ -45,6 +43,9 @@ Para ver proyectos realizados: **mi portafolio** 👆
 ![Back-end](https://img.shields.io/badge/Back--end-111827?style=for-the-badge&logo=serverfault&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=white)
