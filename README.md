@@ -95,7 +95,11 @@ Para ver proyectos realizados: **mi portafolio** 👆
 
 ## Estadísticas
 
+## Estadísticas
 <p align="center">
   <img height="165" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alanggj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" alt="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alanggj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Alanggj&theme=tokyonight&hide_border=true" />
+</p>
