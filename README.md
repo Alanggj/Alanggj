@@ -6,15 +6,16 @@
 <h1 align="center">Alan Gallardo Jiménez</h1>
 <p align="center"><b>Estudiante de Ingeniería en Sistemas</b> en la <b>UAA</b>.</p>
 
+<!-- Contact / Links -->
 <p align="center">
   <a href="https://portfolio-alan.al351914.workers.dev">
-    <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISITAR-111827?style=for-the-badge&logo=githubpages&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Visitar-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/alan-gallardo-jim%C3%A9nez-8a30a7313">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Conectar-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:alangalli100@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/EMAIL-ALANGALLI100%40GMAIL.COM-22C55E?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-alangalli100%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -42,8 +43,8 @@ Para ver proyectos realizados: **mi portafolio** 👆
 ### Web / Frameworks
 ![Front-end](https://img.shields.io/badge/Front--end-0ea5e9?style=for-the-badge&logo=html5&logoColor=white)
 ![Back-end](https://img.shields.io/badge/Back--end-0ea5e9?style=for-the-badge&logo=serverfault&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0ea5e9?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0ea5e9?style=for-the-badge&logo=django&logoColor=white)
 
 ### Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -58,17 +59,19 @@ Para ver proyectos realizados: **mi portafolio** 👆
 
 ### Sistemas (Unix/Linux) y Windows
 ![Unix/Linux](https://img.shields.io/badge/Unix%2FLinux-111827?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-111827?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-111827?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Distros](https://img.shields.io/badge/Distros-Ubuntu%20Server%20%7C%20Kali%20%7C%20Mint-111827?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-111827?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-111827?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Seguridad (herramientas y criptografía)
 ![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=white)
-![RSA](https://img.shields.io/badge/RSA%20(encriptaci%C3%B3n)-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![AES](https://img.shields.io/badge/AES%20(encriptaci%C3%B3n)-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+<!-- Criptografía: separado en badges para que se vea claro -->
+![RSA](https://img.shields.io/badge/RSA-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![AES](https://img.shields.io/badge/AES-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![SHA--256](https://img.shields.io/badge/SHA--256-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![HMAC](https://img.shields.io/badge/HMAC-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-111827?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ### Datos e IA (en aprendizaje)
 ![Analista de Datos](https://img.shields.io/badge/Analista%20de%20Datos-111827?style=for-the-badge&logo=databricks&logoColor=white)
@@ -91,6 +94,12 @@ Para ver proyectos realizados: **mi portafolio** 👆
 ---
 
 ## Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alanggj&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanggj&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Alanggj&theme=tokyonight&hide_border=true)
+
+<p align="center">
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alanggj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" alt="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alanggj&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Alanggj&theme=tokyonight&hide_border=true" />
+</p>
